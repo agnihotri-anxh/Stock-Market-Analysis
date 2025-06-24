@@ -1,1 +1,4 @@
 dataset/ 
+image_caption/vgg16_features_20000.pkl
+image_caption/image_caption_sub/output/model.h5
+image_caption/original_annotations_data.pkl 
