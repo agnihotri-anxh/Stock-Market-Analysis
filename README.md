@@ -1,6 +1,5 @@
-# Zidio_Work
 
-## Time Series Analysis and Stock Market Forecasting
+# Time Series Analysis and Stock Market Forecasting
 
 This project is a web-based application for time series analysis and stock market forecasting using a variety of machine learning and statistical models. It allows users to input a stock symbol, select a forecasting model, and view detailed visualizations of historical data, model predictions, and future forecasts.
 
